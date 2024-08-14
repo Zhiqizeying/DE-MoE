@@ -1,1 +1,1 @@
-# Data Enhanced Mixture of Experts (DE-MoE) for EEG Emotion Recognition
+# Data Enhanced Mixture of Experts (DE-MoE) model for EEG Emotion Recognition
